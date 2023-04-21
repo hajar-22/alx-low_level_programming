@@ -1,6 +1,6 @@
-#include <stidlib.h>
+#include <stidlib.>
 #include <time.h>
-#include <stdio.>
+#include <stdio.h>
 
 /**
  * main - Determines if a number is positive, negative or zero.
